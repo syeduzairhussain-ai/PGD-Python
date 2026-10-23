@@ -1,0 +1,506 @@
+PatientID,Age,Gender,BrushingFrequency,SugarIntakePerDay,Smoking,PlaqueIndex,GumBleeding,Cavities,MissingTeeth,DMFT_Index,LastDentalVisit,OrthodonticTreatment,TreatmentCostPKR,TreatmentNeed
+1,57,Female,Once daily,6.5,No,1.72,No,3,0,5,> 2 years,No,9784,High
+2,20,Female,Once daily,,Yes,2.35,Yes,2,0,2,1-2 years,No,9102,High
+3,66,Male,Once daily,5.2,Yes,,Yes,5,2,8,> 2 years,No,24404,High
+4,26,Male,Twice daily,7.4,No,3.09,Yes,0,0,1,Never,No,4378,High
+5,29,Female,Once daily,5.6,No,3.78,Yes,2,0,4,< 6 months,No,11834,High
+6,8,Male,Twice daily,5.2,No,1.31,Yes,4,0,6,< 6 months,No,13618,High
+7,27,Female,Twice daily,1.1,No,1.43,No,1,0,2,6-12 months,No,6167,Low
+8,58,Male,Twice daily,2.6,Yes,2.14,No,0,1,2,1-2 years,No,7810,Medium
+9,7,Female,Irregular,6.6,No,2.35,Yes,1,0,2,> 2 years,No,5527,High
+10,35,Male,Twice daily,5.6,No,2.8,Yes,2,2,5,6-12 months,No,15599,High
+11,43,Female,Once daily,5.9,No,2.86,Yes,2,0,2,1-2 years,No,8218,High
+12,7,Female,Once daily,5.8,No,2.66,Yes,2,0,2,< 6 months,No,9050,High
+13,69,Female,Once daily,7.1,No,2.53,No,1,1,3,> 2 years,No,9932,High
+14,65,Male,Twice daily,4.0,No,3.08,Yes,0,1,1,Never,No,8078,High
+15,26,Female,Once daily,4.7,No,1.37,Yes,2,0,3,6-12 months,No,9503,Medium
+16,38,Female,Twice daily,2.4,No,2.04,Yes,3,1,5,1-2 years,No,14995,High
+17,63,Female,Twice daily,1.9,No,1.43,No,1,2,4,< 6 months,No,13309,Low
+18,27,Female,Once daily,1.2,No,2.52,No,2,0,2,1-2 years,No,8405,Medium
+19,54,Female,Twice daily,2.7,No,0.73,No,0,0,1,1-2 years,Yes,4092,Low
+20,64,Male,Once daily,7.6,No,2.39,Yes,2,2,5,< 6 months,No,16203,High
+21,47,Female,Once daily,1.4,No,2.15,Yes,1,0,1,6-12 months,No,9355,Medium
+22,65,Female,Twice daily,3.9,No,1.45,No,0,1,1,6-12 months,No,5802,Low
+23,20,Female,Twice daily,1.9,No,1.51,Yes,1,0,2,1-2 years,No,4649,Medium
+24,67,Male,Twice daily,3.3,Yes,2.07,Yes,0,0,0,1-2 years,No,3889,Medium
+25,67,Male,Once daily,4.8,No,2.85,Yes,2,0,2,< 6 months,No,13583,High
+26,52,Female,Once daily,3.1,No,1.32,No,2,1,4,> 2 years,No,12498,Medium
+27,67,Female,Irregular,6.7,No,2.54,Yes,2,0,3,1-2 years,Yes,10202,High
+28,56,Male,Twice daily,7.6,No,3.2,Yes,5,1,7,6-12 months,No,22394,High
+29,60,Female,Twice daily,0.0,No,1.61,No,0,0,2,< 6 months,No,1703,Low
+30,69,Male,Once daily,3.1,No,1.5,Yes,0,1,2,> 2 years,No,8141,Medium
+31,8,Male,Twice daily,4.6,No,2.68,Yes,0,0,2,Never,No,4579,High
+32,56,Male,Once daily,6.8,Yes,2.0,Yes,2,0,2,6-12 months,No,11271,High
+33,12,Male,Once daily,3.6,No,2.81,Yes,1,0,1,6-12 months,No,7037,Medium
+34,26,Female,Irregular,4.5,No,2.5,No,4,0,4,< 6 months,No,12796,High
+35,44,Male,Once daily,2.2,No,1.86,Yes,0,0,0,,No,2604,Medium
+36,23,Female,Irregular,1.4,No,3.37,Yes,2,0,2,< 6 months,Yes,10227,High
+37,9,Female,Once daily,7.4,Yes,2.23,No,1,1,2,6-12 months,No,9913,Medium
+38,65,Female,Once daily,0.9,No,2.4,No,0,0,1,1-2 years,Yes,1738,Low
+39,19,Female,Twice daily,9.2,No,2.49,No,2,0,2,1-2 years,No,8787,High
+40,14,Male,Irregular,6.0,Yes,4.47,Yes,4,0,5,6-12 months,No,16109,High
+41,58,Female,Twice daily,5.9,No,3.37,Yes,2,1,3,6-12 months,No,15275,High
+42,7,Female,Irregular,5.7,No,2.13,No,3,0,3,1-2 years,No,11946,High
+43,65,Male,Twice daily,,No,2.49,Yes,1,1,4,< 6 months,No,11056,Medium
+44,49,Female,Twice daily,5.3,No,1.65,No,0,0,1,< 6 months,No,1411,Low
+45,13,Female,Irregular,4.1,No,3.06,No,4,0,5,> 2 years,Yes,12645,High
+46,52,Female,Once daily,,No,2.3,No,1,1,3,< 6 months,No,11725,Medium
+47,40,Female,Twice daily,4.4,No,1.41,No,3,0,3,1-2 years,No,10186,Medium
+48,41,Female,Once daily,2.6,No,2.75,Yes,1,0,1,Never,No,9220,High
+49,55,Male,Irregular,,Yes,2.97,No,4,0,6,6-12 months,No,14177,High
+50,9,Female,Irregular,2.5,No,2.6,Yes,1,0,2,6-12 months,No,7924,Medium
+51,7,Female,Once daily,6.4,No,2.01,Yes,1,0,2,1-2 years,No,7733,Medium
+52,11,Male,Twice daily,3.3,Yes,2.16,No,2,0,5,> 2 years,No,6544,High
+53,59,Male,Irregular,0.7,Yes,2.94,No,1,0,2,Never,No,6426,High
+54,9,Male,Once daily,5.3,No,2.14,Yes,0,0,2,> 2 years,No,2714,Medium
+55,59,Female,Twice daily,7.5,No,0.42,Yes,1,4,6,< 6 months,No,21152,Medium
+56,68,Female,Irregular,6.0,No,3.09,Yes,3,1,4,1-2 years,No,17131,High
+57,23,Male,Once daily,3.3,No,1.05,No,0,0,0,6-12 months,Yes,1005,Low
+58,49,Female,Twice daily,1.3,Yes,1.76,No,1,1,5,1-2 years,No,9903,Medium
+59,39,Male,Once daily,4.2,No,1.15,Yes,1,0,3,< 6 months,No,4207,Medium
+60,67,Female,Irregular,4.2,No,1.94,Yes,5,1,6,< 6 months,No,21930,High
+61,19,Female,Irregular,2.6,No,3.67,No,4,0,4,> 2 years,Yes,13272,High
+62,53,Female,Irregular,5.6,No,2.82,Yes,3,0,5,6-12 months,Yes,10941,High
+63,20,Male,Twice daily,8.2,No,2.18,Yes,2,0,2,6-12 months,No,7504,High
+64,67,Male,Irregular,4.9,No,3.33,No,4,1,6,6-12 months,No,17136,High
+65,45,Male,Irregular,4.8,No,2.72,Yes,2,0,2,> 2 years,Yes,7315,High
+66,58,Male,Once daily,2.6,No,3.48,Yes,0,2,3,> 2 years,No,12478,High
+67,29,Female,Irregular,7.3,No,2.99,Yes,1,0,2,6-12 months,No,8612,High
+68,31,Female,Once daily,4.3,No,2.4,Yes,3,0,4,< 6 months,No,11654,High
+69,65,Female,Twice daily,3.3,No,2.74,No,2,1,4,6-12 months,Yes,11005,Medium
+70,46,Female,Once daily,4.6,No,3.29,Yes,3,0,3,Never,No,12775,High
+71,34,Female,Once daily,5.4,No,1.71,No,1,0,2,,No,5362,Medium
+72,20,Female,Once daily,4.8,No,1.89,No,3,0,5,,Yes,12671,Medium
+73,50,Female,Twice daily,6.9,Yes,3.24,Yes,2,0,2,1-2 years,No,10917,High
+74,70,Female,Once daily,5.3,No,2.79,Yes,1,0,4,6-12 months,No,7520,High
+75,14,Male,Twice daily,3.9,No,2.86,Yes,2,0,3,> 2 years,No,10788,High
+76,6,Male,Once daily,5.3,Yes,1.27,No,0,1,3,1-2 years,No,6228,Medium
+77,13,Male,Once daily,5.5,No,3.32,Yes,3,0,3,< 6 months,Yes,12434,High
+78,68,Female,Twice daily,,Yes,1.42,No,0,1,1,< 6 months,Yes,8485,Low
+79,16,Female,Twice daily,6.8,No,2.48,Yes,0,0,0,1-2 years,No,2473,Medium
+80,13,Male,Once daily,3.9,No,2.01,No,0,0,1,Never,No,4069,Medium
+81,40,Female,Twice daily,3.9,No,1.5,No,2,0,2,6-12 months,No,7417,Medium
+82,40,Female,Irregular,6.0,No,2.09,No,1,1,2,> 2 years,No,9113,Medium
+83,38,Male,Twice daily,6.0,No,1.06,Yes,2,0,4,> 2 years,No,7779,High
+84,10,Male,Once daily,3.1,No,2.13,Yes,0,0,0,6-12 months,No,4375,Medium
+85,46,Female,Once daily,6.1,No,1.22,No,3,0,5,< 6 months,No,9802,Medium
+86,33,Female,Irregular,3.4,No,2.08,Yes,0,0,0,< 6 months,No,3658,Medium
+87,12,Female,Once daily,8.1,No,2.3,Yes,2,0,2,> 2 years,No,8467,High
+88,17,Female,Irregular,2.8,No,0.98,No,1,0,1,< 6 months,No,2400,Low
+89,39,Female,Twice daily,5.0,Yes,2.75,No,2,0,4,6-12 months,Yes,7556,High
+90,38,Female,Irregular,2.9,No,1.15,No,3,1,5,1-2 years,No,13190,Medium
+91,53,Female,Twice daily,8.9,No,2.46,Yes,2,2,6,> 2 years,No,17603,High
+92,28,Female,Irregular,2.0,No,2.77,No,3,0,3,< 6 months,No,13295,High
+93,67,Male,Once daily,5.5,Yes,2.62,Yes,3,1,5,6-12 months,Yes,15295,High
+94,42,Male,Twice daily,3.0,Yes,2.01,No,0,3,3,1-2 years,No,13679,Medium
+95,49,Male,Once daily,3.8,No,3.52,Yes,2,0,4,1-2 years,No,9307,High
+96,40,Female,Twice daily,5.4,No,2.38,No,1,1,3,> 2 years,No,9850,Medium
+97,70,Female,Twice daily,6.9,No,3.09,Yes,1,0,2,< 6 months,No,8069,High
+98,52,Female,Irregular,7.7,No,2.71,Yes,2,1,4,> 2 years,Yes,14471,High
+99,8,Male,Irregular,1.4,No,2.8,Yes,2,0,3,1-2 years,No,10653,High
+100,6,Male,Twice daily,5.0,No,3.28,Yes,2,0,2,1-2 years,No,11159,High
+101,10,Male,Once daily,7.4,No,2.23,No,3,0,3,1-2 years,No,10226,High
+102,19,Male,Once daily,1.1,No,2.02,Yes,0,0,0,6-12 months,No,6578,Medium
+103,32,Female,Twice daily,5.1,No,2.89,Yes,1,0,1,< 6 months,No,6797,High
+104,14,Male,Once daily,4.5,Yes,1.64,No,2,0,3,1-2 years,No,7779,Medium
+105,20,Male,Once daily,5.3,No,0.71,No,0,0,0,1-2 years,No,3552,Low
+106,47,Female,Once daily,3.0,No,2.22,No,1,0,2,1-2 years,No,6234,Medium
+107,56,Male,Once daily,1.6,No,2.62,No,0,1,2,6-12 months,No,4645,Low
+108,68,Female,Once daily,0.7,No,0.91,No,1,0,4,> 2 years,No,4644,Low
+109,57,Female,Once daily,6.5,No,2.79,Yes,3,0,4,1-2 years,No,13187,High
+110,9,Male,Once daily,,No,2.81,No,1,0,1,< 6 months,No,4355,Medium
+111,28,Female,Once daily,5.1,No,0.62,No,4,0,4,6-12 months,Yes,12835,Medium
+112,20,Female,Irregular,3.4,No,2.22,No,1,0,2,> 2 years,No,6022,Medium
+113,48,Female,Once daily,1.3,No,,Yes,0,1,2,> 2 years,Yes,9262,Medium
+114,34,Male,Once daily,5.6,No,2.12,Yes,1,0,1,1-2 years,No,5854,Medium
+115,41,Female,Twice daily,2.3,No,1.46,No,0,0,1,> 2 years,No,3717,Low
+116,18,Female,Once daily,3.1,Yes,1.49,Yes,1,0,2,6-12 months,No,6435,Medium
+117,37,Male,Irregular,3.3,No,4.03,Yes,6,0,7,6-12 months,No,22640,High
+118,64,Male,Twice daily,4.1,No,2.05,Yes,1,2,3,> 2 years,No,17978,High
+119,33,Female,Once daily,3.0,No,1.55,Yes,1,0,1,> 2 years,No,8131,Medium
+120,71,Female,Once daily,4.6,No,2.14,Yes,1,3,6,1-2 years,No,19275,Medium
+121,47,Male,Irregular,3.3,No,3.24,Yes,4,3,7,> 2 years,No,29753,High
+122,50,Female,Irregular,5.9,No,3.11,No,2,0,4,,No,9401,High
+123,67,Male,Twice daily,6.6,Yes,2.18,Yes,1,2,3,> 2 years,Yes,13636,High
+124,62,Male,Twice daily,4.7,No,1.72,Yes,2,3,5,6-12 months,No,20857,Medium
+125,11,Male,Once daily,5.4,Yes,1.77,Yes,0,1,2,< 6 months,No,8853,Medium
+126,33,Male,Irregular,8.7,No,,Yes,3,0,4,6-12 months,No,13207,High
+127,33,Male,Once daily,2.2,No,2.21,Yes,0,0,0,6-12 months,No,2897,Medium
+128,49,Male,Irregular,2.0,No,2.06,No,3,0,5,6-12 months,No,9130,Medium
+129,35,Female,Twice daily,5.9,No,2.55,No,4,0,4,6-12 months,No,12875,High
+130,67,Male,Twice daily,,No,3.46,Yes,3,4,8,< 6 months,No,29263,High
+131,67,Male,Twice daily,4.0,No,2.35,Yes,1,3,4,6-12 months,No,19640,Medium
+132,6,Female,Once daily,8.0,No,2.18,No,2,0,2,1-2 years,No,8196,High
+133,32,Male,Once daily,4.7,No,1.27,Yes,0,1,1,6-12 months,No,6588,Medium
+134,67,Female,Once daily,3.1,Yes,3.15,No,0,2,2,6-12 months,No,13789,Medium
+135,8,Male,Once daily,2.5,No,1.18,No,2,0,3,> 2 years,No,6040,Medium
+136,32,Male,,,No,2.86,Yes,2,0,4,> 2 years,No,11265,High
+137,14,Male,Once daily,2.7,No,2.46,Yes,1,0,2,> 2 years,Yes,7809,High
+138,67,Male,Once daily,4.7,No,2.01,Yes,1,2,3,6-12 months,No,16143,Medium
+139,42,Male,Irregular,7.7,No,3.03,Yes,1,0,1,> 2 years,No,6788,High
+140,56,Male,Irregular,3.9,No,1.63,Yes,0,0,1,< 6 months,No,3670,Medium
+141,49,Male,Irregular,7.1,Yes,3.4,Yes,3,1,5,< 6 months,No,16646,High
+142,29,Male,Irregular,2.1,No,3.2,Yes,3,0,3,6-12 months,No,11868,High
+143,64,Male,Once daily,,No,1.31,No,2,1,3,> 2 years,No,11687,Medium
+144,37,Male,Once daily,1.7,Yes,1.83,No,1,0,3,6-12 months,No,7176,Medium
+145,57,Male,Twice daily,4.6,No,2.19,No,0,2,3,< 6 months,No,9477,Medium
+146,67,Female,Twice daily,6.1,Yes,2.7,No,3,2,7,< 6 months,Yes,18101,High
+147,63,Female,Once daily,4.7,No,2.18,Yes,0,1,2,> 2 years,No,7307,Medium
+148,57,Male,Irregular,7.0,No,2.02,Yes,3,1,5,1-2 years,No,15501,High
+149,17,Female,Once daily,3.0,No,1.67,No,3,0,4,6-12 months,No,10006,Medium
+150,44,Female,Once daily,5.0,No,2.36,Yes,2,1,5,1-2 years,No,14279,High
+151,7,Male,Twice daily,3.4,No,2.66,Yes,1,0,3,1-2 years,No,7102,Medium
+152,8,Female,Twice daily,5.2,No,1.78,Yes,3,0,3,1-2 years,No,11809,High
+153,61,Female,Twice daily,5.5,Yes,3.77,Yes,3,0,3,6-12 months,No,13317,High
+154,64,Male,Once daily,5.7,No,0.93,Yes,1,2,4,> 2 years,No,14145,Medium
+155,7,Male,Irregular,2.4,No,2.4,No,0,0,2,6-12 months,No,4024,Low
+156,7,Female,Once daily,2.7,No,1.96,Yes,3,0,3,1-2 years,No,11425,High
+157,59,Female,Once daily,3.1,No,,No,1,2,3,< 6 months,No,15313,Medium
+158,6,Male,Irregular,4.0,No,2.06,Yes,1,0,1,6-12 months,No,9692,Medium
+159,24,Male,Irregular,4.7,No,3.29,Yes,0,0,0,6-12 months,No,5850,Medium
+160,7,Male,Irregular,5.9,Yes,3.33,Yes,3,0,3,1-2 years,No,12805,High
+161,58,Female,Irregular,2.8,No,2.86,No,5,2,9,< 6 months,No,24751,High
+162,49,Female,Twice daily,1.3,No,2.14,No,1,0,1,,No,4177,Medium
+163,37,Male,,8.8,Yes,2.21,Yes,2,0,2,< 6 months,No,9463,High
+164,37,Male,Once daily,2.2,No,0.84,No,0,1,3,1-2 years,No,5210,Low
+165,73,Female,Once daily,6.2,No,1.79,No,1,0,1,> 2 years,No,5865,Medium
+166,60,Male,Once daily,4.6,No,2.28,No,0,2,3,1-2 years,No,10224,Medium
+167,61,Male,Once daily,5.0,No,2.31,No,2,1,3,> 2 years,No,11703,High
+168,22,Female,Twice daily,4.5,Yes,2.19,Yes,4,1,6,1-2 years,Yes,15987,High
+169,43,Female,Twice daily,3.7,No,2.48,Yes,0,1,1,6-12 months,No,7028,Medium
+170,29,Female,Once daily,5.4,No,1.83,Yes,2,0,4,> 2 years,No,9407,High
+171,74,Female,Once daily,3.6,Yes,2.11,Yes,0,0,1,6-12 months,No,3134,Medium
+172,16,Male,Twice daily,6.8,Yes,2.74,No,1,1,3,1-2 years,No,11195,High
+173,21,Male,Once daily,5.6,No,2.19,Yes,0,0,2,> 2 years,Yes,3088,Medium
+174,64,Female,Irregular,5.7,No,2.19,No,5,0,8,6-12 months,No,16077,High
+175,8,Male,Twice daily,3.5,No,1.41,No,2,0,4,6-12 months,Yes,6573,Medium
+176,25,Male,Twice daily,4.0,No,2.7,No,0,0,1,6-12 months,No,3853,Medium
+177,64,Male,Twice daily,2.1,No,2.94,No,1,2,3,> 2 years,No,12216,Medium
+178,41,Male,,3.8,No,3.73,Yes,3,0,4,Never,No,12267,High
+179,24,Male,Once daily,2.4,No,2.15,Yes,1,0,2,1-2 years,No,5690,Medium
+180,72,Male,Twice daily,7.1,No,1.53,No,2,0,3,1-2 years,No,8631,Medium
+181,24,Male,Twice daily,4.6,No,2.16,Yes,0,0,0,> 2 years,No,4767,Medium
+182,25,Male,Once daily,4.8,No,3.28,Yes,0,0,0,< 6 months,No,3517,Medium
+183,57,Female,Irregular,4.0,No,3.35,Yes,1,0,3,6-12 months,No,7301,High
+184,38,Female,Twice daily,4.9,No,2.05,No,1,1,3,1-2 years,No,8508,Medium
+185,45,Female,Twice daily,9.4,No,2.99,Yes,2,0,3,> 2 years,No,10933,High
+186,44,Female,Irregular,3.9,No,2.02,Yes,2,0,3,> 2 years,Yes,10640,High
+187,6,Female,Irregular,3.2,No,2.37,No,3,0,4,6-12 months,No,8929,High
+188,16,Male,Twice daily,5.6,No,1.49,Yes,2,0,3,< 6 months,No,9735,Medium
+189,62,Female,Irregular,0.0,No,,Yes,2,0,2,6-12 months,No,8763,High
+190,55,Female,Twice daily,4.6,No,2.67,No,2,1,4,6-12 months,No,12065,Medium
+191,28,Female,Twice daily,3.8,No,2.0,No,1,0,3,6-12 months,No,5439,Medium
+192,36,Male,Twice daily,2.5,Yes,1.39,No,0,1,3,> 2 years,No,8653,Medium
+193,47,Male,Twice daily,5.5,No,2.23,Yes,0,0,1,< 6 months,No,3056,Medium
+194,12,Male,Once daily,4.6,No,1.83,No,2,0,5,> 2 years,Yes,8783,Medium
+195,21,Male,Irregular,0.9,No,2.11,No,2,0,2,6-12 months,No,6571,Medium
+196,65,Female,Irregular,3.2,No,3.09,Yes,3,2,6,1-2 years,No,18874,High
+197,7,Female,Once daily,0.0,No,1.27,No,0,0,1,< 6 months,No,2423,Low
+198,6,Male,Irregular,5.1,No,1.91,No,3,0,3,6-12 months,No,10363,Medium
+199,53,Female,Once daily,5.1,No,1.27,No,1,1,2,< 6 months,Yes,5490,Medium
+200,17,Female,Once daily,2.9,No,0.91,No,0,0,2,Never,No,3529,Low
+201,74,Male,,5.6,Yes,2.42,No,3,0,3,> 2 years,No,8127,High
+202,42,Male,Once daily,1.9,No,2.06,No,0,1,1,6-12 months,Yes,6767,Low
+203,37,Male,,2.6,No,2.88,Yes,1,0,2,6-12 months,No,8809,Medium
+204,14,Male,Irregular,5.3,No,3.44,Yes,3,0,4,Never,Yes,15259,High
+205,24,Male,Twice daily,3.1,Yes,2.88,Yes,1,0,2,6-12 months,No,6780,High
+206,53,Male,Once daily,4.4,Yes,1.74,Yes,4,0,5,< 6 months,No,12198,High
+207,8,Male,Once daily,3.4,No,2.36,No,1,0,2,1-2 years,No,7201,Medium
+208,25,Male,Twice daily,3.7,No,0.99,No,1,0,3,Never,No,5731,Medium
+209,29,Female,Irregular,3.8,No,3.87,No,1,0,3,< 6 months,No,6122,High
+210,59,Male,Twice daily,3.1,No,1.18,No,1,1,2,6-12 months,No,8087,Low
+211,38,Female,Once daily,5.1,No,1.71,No,1,0,1,Never,No,4336,Medium
+212,29,Male,Twice daily,3.2,No,1.64,Yes,0,0,2,< 6 months,No,3434,Medium
+213,41,Female,Twice daily,4.5,No,,No,3,0,4,< 6 months,No,10142,Medium
+214,43,Male,Twice daily,3.0,No,2.06,No,0,0,1,1-2 years,Yes,2263,Low
+215,30,Male,Once daily,1.4,No,2.06,No,1,0,3,> 2 years,No,4915,Medium
+216,23,Female,Twice daily,6.3,Yes,2.17,No,0,0,1,1-2 years,No,3789,Medium
+217,71,Female,Twice daily,5.5,Yes,1.16,No,2,1,3,Never,Yes,9533,High
+218,59,Female,Irregular,9.1,No,4.72,Yes,2,2,4,1-2 years,No,18553,High
+219,40,Male,Once daily,2.4,Yes,2.38,Yes,1,1,4,< 6 months,No,8855,High
+220,66,Male,Twice daily,4.1,Yes,3.97,Yes,0,3,3,Never,No,17609,High
+221,46,Female,Irregular,4.2,No,2.37,No,4,1,5,6-12 months,No,14832,High
+222,38,Female,Once daily,6.5,No,2.99,Yes,4,1,6,6-12 months,No,19861,High
+223,73,Female,Irregular,3.5,No,3.43,Yes,4,1,6,1-2 years,No,17523,High
+224,38,Female,Twice daily,,No,1.77,No,1,1,2,6-12 months,No,7112,Medium
+225,19,Male,Once daily,6.9,No,3.34,Yes,4,0,4,< 6 months,No,14602,High
+226,26,Female,Once daily,3.9,No,1.83,No,3,0,3,< 6 months,No,12334,Medium
+227,53,Male,Twice daily,6.3,No,2.05,No,1,1,3,6-12 months,No,10288,Medium
+228,25,Male,Once daily,6.0,Yes,,No,2,0,2,> 2 years,Yes,4193,Medium
+229,13,Male,Twice daily,4.4,No,2.44,No,2,0,2,1-2 years,Yes,6596,Medium
+230,12,Female,Once daily,4.2,Yes,1.21,Yes,0,0,0,Never,No,3072,Medium
+231,72,Male,Twice daily,3.7,No,1.71,Yes,2,1,3,6-12 months,No,15583,Medium
+232,22,Male,Once daily,4.5,No,1.44,No,0,0,0,6-12 months,No,1381,Low
+233,38,Female,Irregular,6.2,No,2.84,Yes,1,0,2,< 6 months,No,6071,High
+234,53,Male,Irregular,2.9,No,3.14,Yes,5,0,5,< 6 months,No,19231,High
+235,64,Female,Irregular,4.7,No,2.98,Yes,6,0,6,6-12 months,Yes,20020,High
+236,27,Male,Twice daily,2.3,No,2.48,Yes,1,0,2,> 2 years,No,8200,High
+237,35,Female,Once daily,2.5,Yes,2.89,Yes,2,0,2,> 2 years,Yes,8850,High
+238,43,Female,Twice daily,4.4,No,1.89,No,0,0,0,Never,No,2701,Medium
+239,56,Male,Once daily,0.6,No,1.51,Yes,1,0,1,6-12 months,No,7836,Medium
+240,59,Male,Once daily,8.6,No,3.16,Yes,3,0,4,> 2 years,No,12238,High
+241,13,Male,Once daily,2.1,No,2.69,No,1,0,2,6-12 months,No,7231,Medium
+242,32,Male,Twice daily,4.4,No,2.67,Yes,1,0,1,< 6 months,No,7534,High
+243,32,Female,Twice daily,6.8,No,1.68,No,1,0,2,> 2 years,No,3928,Medium
+244,26,Male,Twice daily,2.8,No,2.32,No,1,0,2,1-2 years,No,5604,Medium
+245,35,Female,Once daily,0.0,No,1.88,No,0,2,3,< 6 months,Yes,11994,Low
+246,33,Male,Once daily,3.6,No,2.82,No,2,0,3,6-12 months,No,9277,Medium
+247,69,Female,Irregular,2.8,No,2.42,Yes,1,1,3,6-12 months,No,10846,Medium
+248,74,Female,Once daily,0.0,No,,No,0,2,3,> 2 years,No,7671,Low
+249,66,Female,Twice daily,5.1,Yes,2.69,Yes,5,0,6,6-12 months,Yes,14928,High
+250,53,Male,Once daily,4.9,No,0.4,Yes,0,2,2,Never,No,9080,Medium
+251,24,Male,Twice daily,6.8,Yes,1.83,No,0,0,0,< 6 months,No,2168,Medium
+252,9,Male,Twice daily,2.3,No,1.27,Yes,0,0,0,6-12 months,No,3136,Low
+253,40,Female,Once daily,1.3,Yes,1.18,No,1,0,1,1-2 years,Yes,3056,Medium
+254,69,Female,Once daily,3.7,No,1.57,No,0,3,5,1-2 years,Yes,15826,Low
+255,54,Female,Twice daily,4.3,No,3.0,Yes,3,1,6,6-12 months,No,14783,High
+256,22,Male,Twice daily,6.3,Yes,2.88,Yes,1,0,2,> 2 years,No,5571,High
+257,49,Female,Once daily,7.3,No,2.21,Yes,0,0,1,> 2 years,No,4353,High
+258,35,Female,Irregular,6.9,No,3.95,Yes,2,1,4,Never,No,15634,High
+259,51,Male,Once daily,,No,1.46,No,3,1,4,> 2 years,No,16488,High
+260,11,Male,Once daily,6.1,Yes,1.45,Yes,2,0,2,> 2 years,No,9414,High
+261,42,Female,Irregular,3.2,No,3.46,Yes,0,0,3,1-2 years,No,7018,Medium
+262,29,Female,Once daily,,No,2.59,No,3,0,3,> 2 years,No,9359,High
+263,51,Female,Twice daily,2.1,Yes,1.65,No,0,3,3,6-12 months,Yes,17247,Low
+264,58,Male,Once daily,4.6,Yes,1.37,No,0,2,2,6-12 months,Yes,8225,Medium
+265,65,Female,Once daily,4.7,No,3.2,Yes,1,1,2,6-12 months,No,10835,High
+266,68,Male,Irregular,7.9,No,2.03,No,2,2,5,6-12 months,No,16594,Medium
+267,37,Male,Once daily,4.0,No,1.7,No,1,1,2,6-12 months,No,7264,Medium
+268,38,Male,Irregular,4.7,No,3.14,Yes,2,0,2,Never,No,8786,High
+269,72,Female,Once daily,5.0,No,3.46,Yes,1,1,2,6-12 months,No,10319,High
+270,23,Female,,3.6,No,2.36,Yes,2,0,2,< 6 months,No,8980,High
+271,30,Female,Once daily,2.9,Yes,2.37,No,1,0,3,1-2 years,No,7365,Medium
+272,59,Male,Twice daily,7.1,No,1.97,No,1,1,2,< 6 months,Yes,9399,Medium
+273,63,Female,Once daily,2.5,No,2.4,Yes,2,0,2,< 6 months,No,8824,High
+274,72,Male,Irregular,1.8,No,2.82,No,3,2,5,< 6 months,No,15513,High
+275,51,Female,Twice daily,5.9,No,1.16,No,2,2,6,6-12 months,No,15872,Medium
+276,29,Male,Irregular,6.8,No,3.7,No,4,0,5,6-12 months,Yes,15038,High
+277,37,Male,Once daily,3.6,Yes,2.77,Yes,3,0,5,> 2 years,No,10099,High
+278,52,Male,Irregular,3.6,No,3.45,No,2,2,5,> 2 years,No,16835,High
+279,28,Male,Twice daily,,Yes,2.23,Yes,1,1,2,6-12 months,No,10993,High
+280,71,Female,Twice daily,3.1,No,1.38,Yes,2,0,2,6-12 months,No,9824,Medium
+281,32,Female,Irregular,2.9,Yes,1.22,Yes,2,0,2,6-12 months,Yes,7684,Medium
+282,7,Male,Twice daily,6.3,Yes,2.41,No,0,0,2,> 2 years,No,2137,Medium
+283,22,Female,Twice daily,5.7,No,3.01,No,5,0,6,,No,15559,High
+284,38,Male,Once daily,7.1,No,3.06,No,3,1,4,< 6 months,No,16683,High
+285,14,Female,Once daily,2.0,No,2.53,No,2,0,2,> 2 years,No,9524,Medium
+286,48,Female,Irregular,3.5,No,2.83,Yes,3,2,5,,Yes,20155,High
+287,53,Female,Twice daily,5.1,Yes,2.97,Yes,1,2,3,< 6 months,No,16503,High
+288,44,Male,Twice daily,2.6,Yes,2.65,Yes,2,1,3,6-12 months,Yes,10713,High
+289,47,Female,Twice daily,5.8,No,1.97,Yes,1,0,1,Never,No,7529,High
+290,31,Female,Once daily,6.9,No,2.83,Yes,4,0,5,> 2 years,No,13338,High
+291,55,Male,Once daily,3.3,No,1.69,No,0,0,0,1-2 years,No,4803,Low
+292,30,Male,Twice daily,,No,2.55,Yes,1,0,1,1-2 years,No,5708,Medium
+293,29,Female,Once daily,7.4,No,1.48,Yes,2,0,3,1-2 years,No,7713,High
+294,18,Female,Once daily,8.1,No,1.59,Yes,0,0,1,Never,No,4488,Medium
+295,65,Female,Twice daily,6.0,No,3.02,Yes,2,1,4,Never,No,14605,High
+296,12,Female,Once daily,5.7,No,2.91,No,0,0,0,< 6 months,Yes,3001,Medium
+297,62,Female,Twice daily,2.8,No,2.47,No,2,0,2,> 2 years,No,8675,Medium
+298,41,Male,Once daily,5.2,No,2.28,No,1,0,1,< 6 months,No,6190,Medium
+299,50,Male,Twice daily,5.6,No,0.57,No,2,0,3,< 6 months,No,7371,Medium
+300,25,Male,Once daily,4.1,No,2.08,Yes,2,0,2,1-2 years,No,8671,High
+301,70,Female,Twice daily,3.3,No,2.38,No,0,1,2,6-12 months,No,7772,Medium
+302,13,Male,Once daily,1.9,No,1.58,Yes,3,0,5,Never,No,12994,High
+303,21,Female,Once daily,1.0,No,1.38,Yes,1,0,1,< 6 months,No,4695,Medium
+304,19,Female,Once daily,0.6,No,2.86,Yes,3,0,3,1-2 years,No,11194,High
+305,20,Female,Twice daily,5.7,No,2.21,Yes,1,0,2,> 2 years,No,6780,High
+306,71,Male,Twice daily,4.8,No,2.5,Yes,0,1,4,> 2 years,No,7183,Medium
+307,37,Female,Once daily,3.5,No,2.62,Yes,1,0,1,< 6 months,No,4870,Medium
+308,68,Male,Twice daily,3.8,No,1.4,No,1,2,4,6-12 months,Yes,14292,Low
+309,56,Female,Irregular,4.9,No,3.13,Yes,1,2,3,1-2 years,No,12716,High
+310,30,Male,Twice daily,4.2,No,3.06,Yes,0,0,1,< 6 months,No,4359,Medium
+311,63,Male,Once daily,1.8,No,3.22,No,0,2,4,Never,No,12665,Medium
+312,68,Female,Twice daily,6.3,No,2.33,Yes,1,0,2,> 2 years,No,7151,High
+313,67,Male,Once daily,5.1,Yes,2.04,Yes,1,1,2,< 6 months,No,10163,High
+314,27,Male,Once daily,5.0,No,2.39,No,1,0,1,< 6 months,No,4356,Medium
+315,63,Female,Irregular,6.2,Yes,,Yes,4,2,6,< 6 months,No,23402,High
+316,63,Female,Once daily,2.9,No,3.0,Yes,0,1,1,> 2 years,No,7614,Medium
+317,54,Female,Twice daily,6.9,No,1.65,No,3,1,4,< 6 months,No,14474,High
+318,57,Female,Twice daily,4.2,Yes,1.94,Yes,4,0,4,6-12 months,No,14227,High
+319,47,Female,Twice daily,6.3,Yes,1.52,No,1,0,1,6-12 months,No,5245,Medium
+320,20,Male,Twice daily,6.0,No,1.57,No,2,0,4,1-2 years,No,6831,Medium
+321,59,Male,Once daily,2.4,No,2.26,Yes,0,1,1,< 6 months,No,10724,Medium
+322,65,Male,Once daily,5.5,No,2.81,Yes,1,0,1,6-12 months,No,7597,High
+323,13,Female,Twice daily,5.2,Yes,1.76,No,2,0,2,Never,Yes,7398,High
+324,58,Female,Once daily,4.6,No,2.71,Yes,3,1,6,> 2 years,No,16414,High
+325,65,Male,Once daily,4.3,No,2.92,Yes,2,0,2,> 2 years,No,8815,High
+326,10,Male,Once daily,4.3,No,3.5,Yes,4,0,4,< 6 months,No,14686,High
+327,73,Female,Once daily,6.1,No,2.34,Yes,2,1,4,6-12 months,No,16208,High
+328,11,Male,Once daily,5.7,No,1.81,Yes,3,0,5,1-2 years,No,10546,High
+329,52,Female,Once daily,4.6,No,1.47,No,1,0,3,6-12 months,No,4936,Medium
+330,60,Female,Twice daily,1.5,No,1.15,No,0,1,1,> 2 years,No,5758,Low
+331,45,Female,Twice daily,5.5,No,3.11,No,2,0,2,1-2 years,No,7429,High
+332,57,Male,Irregular,,No,2.01,Yes,2,0,4,< 6 months,No,9612,High
+333,21,Female,Once daily,9.1,Yes,3.38,Yes,6,0,9,> 2 years,No,20110,High
+334,18,Female,Once daily,6.7,No,1.73,No,2,0,3,Never,No,8804,High
+335,35,Female,Once daily,0.7,Yes,1.38,No,0,3,4,< 6 months,No,15439,Low
+336,24,Female,Twice daily,4.7,No,2.07,No,1,0,1,1-2 years,No,6530,Medium
+337,22,Female,Twice daily,8.1,No,1.96,No,1,0,3,6-12 months,No,4270,Medium
+338,68,Female,Once daily,5.7,No,2.91,No,5,0,5,6-12 months,No,16806,High
+339,24,Male,Irregular,5.2,Yes,4.29,Yes,4,0,4,< 6 months,No,16501,High
+340,63,Female,Once daily,6.3,Yes,1.84,Yes,2,1,3,1-2 years,No,11763,High
+341,60,Female,Twice daily,3.3,No,1.76,No,0,3,3,Never,No,14350,Medium
+342,67,Male,Twice daily,5.5,Yes,2.13,No,2,2,4,,No,14244,High
+343,28,Female,Irregular,4.0,Yes,3.3,No,2,1,4,< 6 months,No,13614,High
+344,14,Female,Twice daily,4.5,No,2.05,No,4,0,6,1-2 years,Yes,13733,High
+345,17,Female,Irregular,6.2,No,4.07,Yes,4,0,4,6-12 months,No,17265,High
+346,6,Male,Once daily,2.6,No,2.81,Yes,1,0,2,> 2 years,Yes,6892,High
+347,63,Male,Irregular,7.1,No,2.34,Yes,1,1,4,6-12 months,Yes,11380,High
+348,6,Female,Once daily,3.7,Yes,2.46,No,2,1,4,< 6 months,No,13407,High
+349,39,Female,Irregular,5.0,No,4.06,Yes,1,0,1,< 6 months,No,7137,High
+350,53,Male,Twice daily,1.7,No,1.59,No,2,1,4,> 2 years,No,10526,Medium
+351,6,Female,Irregular,5.9,No,2.87,No,6,0,7,6-12 months,Yes,17642,High
+352,21,Female,Twice daily,7.4,No,2.02,Yes,0,0,1,> 2 years,No,3695,Medium
+353,66,Female,Twice daily,3.5,No,1.73,No,3,2,6,< 6 months,No,17166,Medium
+354,69,Female,Twice daily,,No,0.82,No,2,1,3,6-12 months,No,10258,Low
+355,68,Male,Twice daily,5.1,No,1.28,No,2,3,6,6-12 months,No,20453,Medium
+356,74,Male,Once daily,7.4,No,2.45,Yes,3,2,6,Never,No,19799,High
+357,27,Male,Once daily,1.6,No,2.99,No,0,0,2,Never,No,3961,Medium
+358,72,Female,Once daily,2.3,No,1.55,Yes,1,1,3,< 6 months,Yes,9624,Medium
+359,31,Male,Once daily,3.6,No,1.64,Yes,1,0,1,6-12 months,No,5608,Medium
+360,21,Male,Irregular,2.9,No,4.02,No,1,0,2,< 6 months,No,7157,High
+361,56,Male,Once daily,2.9,Yes,1.26,Yes,2,3,5,1-2 years,No,20733,Medium
+362,62,Female,Irregular,0.3,No,1.46,No,1,0,1,6-12 months,No,5956,Low
+363,34,Female,Once daily,5.7,No,1.68,No,2,0,3,> 2 years,Yes,9238,Medium
+364,74,Male,Once daily,5.2,No,1.75,No,2,1,5,Never,No,10895,High
+365,52,Male,Twice daily,1.1,No,0.66,No,1,0,1,6-12 months,No,5495,Low
+366,67,Female,Twice daily,7.4,No,2.3,Yes,0,1,2,1-2 years,No,7014,Medium
+367,74,Male,Twice daily,7.9,No,3.1,Yes,3,1,5,> 2 years,Yes,18859,High
+368,21,Male,Twice daily,3.0,No,1.14,No,1,0,1,> 2 years,No,3854,Medium
+369,53,Male,Twice daily,6.8,No,2.41,No,3,0,4,< 6 months,No,11516,High
+370,44,Male,Once daily,3.4,Yes,2.35,Yes,0,3,3,6-12 months,No,15040,Medium
+371,38,Male,Irregular,4.9,No,2.93,Yes,5,1,6,6-12 months,No,21068,High
+372,28,Female,Irregular,2.8,No,2.95,Yes,2,0,2,6-12 months,Yes,11620,High
+373,15,Male,Twice daily,8.9,No,2.65,Yes,2,0,3,< 6 months,No,8574,High
+374,74,Female,Once daily,3.9,No,1.54,Yes,0,1,1,< 6 months,No,10423,Medium
+375,39,Male,Twice daily,4.8,No,3.23,Yes,3,0,4,1-2 years,No,12455,High
+376,57,Female,Once daily,3.1,No,2.92,No,0,2,2,6-12 months,No,12715,Medium
+377,15,Female,Once daily,8.2,Yes,,Yes,0,0,0,< 6 months,No,5487,High
+378,24,Male,Once daily,8.3,No,3.17,No,3,0,5,6-12 months,No,11767,High
+379,63,Female,Twice daily,7.8,No,1.32,No,2,1,4,> 2 years,No,9713,Medium
+380,6,Male,Irregular,6.4,No,3.76,Yes,2,0,3,> 2 years,No,9765,High
+381,74,Female,Twice daily,3.3,No,2.52,Yes,0,1,2,1-2 years,No,9899,Medium
+382,9,Male,,6.2,No,1.22,No,2,0,2,6-12 months,No,6941,Medium
+383,21,Male,Once daily,4.5,No,2.01,No,0,0,0,Never,No,3074,Medium
+384,29,Male,Once daily,7.1,No,2.56,Yes,0,0,1,< 6 months,No,2635,Medium
+385,7,Female,Once daily,6.7,No,3.5,Yes,2,0,2,< 6 months,No,9505,High
+386,37,Female,Irregular,3.2,No,3.36,Yes,5,0,5,6-12 months,No,18900,High
+387,29,Female,Once daily,6.4,No,1.71,No,3,0,3,< 6 months,No,8658,High
+388,17,Male,Irregular,5.9,No,4.26,Yes,6,0,7,6-12 months,No,21542,High
+389,55,Female,Twice daily,0.0,Yes,1.83,Yes,1,1,3,> 2 years,No,10694,Medium
+390,40,Male,Once daily,6.1,No,2.11,No,0,0,1,1-2 years,Yes,2694,Medium
+391,38,Female,Twice daily,3.6,No,1.86,Yes,1,0,1,6-12 months,No,6166,Medium
+392,38,Male,Twice daily,2.7,No,0.88,Yes,1,1,2,Never,No,9227,Medium
+393,66,Male,Irregular,,No,2.75,No,1,0,1,< 6 months,No,5443,Medium
+394,56,Male,Irregular,,No,3.28,Yes,1,0,1,< 6 months,No,8612,High
+395,48,Male,Once daily,5.5,No,1.97,Yes,1,1,3,1-2 years,No,10061,Medium
+396,17,Female,Once daily,1.8,No,2.24,Yes,0,0,1,1-2 years,No,6437,Medium
+397,72,Male,Twice daily,4.9,No,1.59,No,1,1,2,< 6 months,No,9472,Medium
+398,70,Female,Irregular,5.7,Yes,2.96,No,5,4,9,6-12 months,Yes,31380,High
+399,38,Male,Once daily,8.2,No,,Yes,2,0,4,1-2 years,No,10744,High
+400,45,Female,Twice daily,2.3,Yes,2.12,No,0,0,0,1-2 years,No,3733,Medium
+401,48,Male,Twice daily,3.8,No,0.98,Yes,0,0,1,1-2 years,No,1401,Low
+402,49,Male,Twice daily,5.0,No,1.89,Yes,1,0,4,6-12 months,No,5282,Medium
+403,34,Female,Once daily,6.8,No,,Yes,1,0,1,< 6 months,No,7525,High
+404,18,Male,Twice daily,3.9,No,1.77,Yes,1,0,3,6-12 months,No,4539,Medium
+405,17,Male,Irregular,6.9,Yes,3.16,Yes,2,0,2,< 6 months,No,12421,High
+406,51,Female,Once daily,0.6,No,1.79,No,1,2,3,Never,Yes,14240,Medium
+407,7,Female,Once daily,2.0,No,3.06,Yes,0,0,0,1-2 years,No,4826,Medium
+408,40,Male,Irregular,5.2,No,3.92,Yes,3,0,3,6-12 months,No,12533,High
+409,13,Male,Once daily,1.7,No,2.5,Yes,1,0,2,> 2 years,No,6230,Medium
+410,31,Female,Irregular,2.2,No,2.09,Yes,6,0,6,1-2 years,No,16806,High
+411,39,Male,Twice daily,3.4,No,2.32,No,0,0,1,6-12 months,Yes,1045,Medium
+412,12,Male,Once daily,6.0,No,2.68,Yes,1,0,2,> 2 years,No,9357,High
+413,73,Male,Irregular,0.7,No,2.17,Yes,1,1,4,> 2 years,Yes,12607,Medium
+414,63,Female,Once daily,4.8,No,1.57,No,0,2,2,1-2 years,Yes,9908,Low
+415,34,Female,,6.6,No,3.52,Yes,2,0,6,< 6 months,No,11254,High
+416,41,Male,Once daily,4.1,No,1.92,No,3,1,5,1-2 years,No,14952,Medium
+417,26,Male,Twice daily,3.8,No,3.23,Yes,0,0,0,> 2 years,No,5710,High
+418,41,Male,Once daily,5.3,No,2.92,Yes,1,1,2,< 6 months,No,9534,High
+419,15,Female,Once daily,4.1,No,2.41,No,1,0,2,,No,3517,Medium
+420,29,Male,Irregular,7.3,No,3.5,Yes,0,0,1,> 2 years,No,6569,High
+421,69,Male,Once daily,2.3,No,1.0,No,0,3,4,< 6 months,Yes,11825,Low
+422,54,Female,Twice daily,4.4,No,2.3,No,3,2,5,> 2 years,No,18432,High
+423,41,Male,Once daily,4.9,No,3.18,Yes,1,0,4,1-2 years,No,6985,High
+424,29,Female,Twice daily,3.7,No,2.57,Yes,1,0,2,6-12 months,No,6447,Medium
+425,28,Male,Once daily,0.0,No,1.91,Yes,1,0,1,< 6 months,No,6914,Medium
+426,67,Male,Irregular,4.2,No,4.13,Yes,4,3,10,> 2 years,No,26778,High
+427,42,Male,Twice daily,6.3,Yes,2.17,Yes,0,0,1,6-12 months,No,4694,Medium
+428,17,Female,Once daily,6.1,No,1.85,No,0,0,1,1-2 years,No,2964,Medium
+429,60,Female,Once daily,5.2,No,2.32,No,5,0,5,1-2 years,No,18142,High
+430,18,Female,Once daily,2.3,No,2.52,Yes,1,0,2,1-2 years,No,5302,Medium
+431,28,Male,Twice daily,5.3,No,,No,1,0,1,Never,No,4749,Medium
+432,35,Female,Once daily,3.4,Yes,2.27,Yes,0,2,2,1-2 years,No,12807,Medium
+433,22,Male,Irregular,5.2,No,3.58,Yes,3,0,4,6-12 months,No,12398,High
+434,67,Male,Once daily,4.7,No,1.99,No,0,0,0,Never,No,1289,Medium
+435,18,Female,Once daily,2.5,No,2.77,Yes,1,0,1,1-2 years,No,8648,Medium
+436,64,Male,Twice daily,2.7,No,2.46,No,2,1,3,6-12 months,No,12626,Medium
+437,24,Male,Twice daily,5.2,No,3.71,Yes,2,0,4,< 6 months,No,8777,High
+438,54,Male,Once daily,4.1,Yes,1.6,Yes,2,2,5,,No,17346,High
+439,17,Male,Once daily,2.8,No,2.61,Yes,0,0,0,6-12 months,No,6569,Medium
+440,66,Male,Once daily,2.7,No,1.3,Yes,1,1,2,1-2 years,No,10066,Medium
+441,24,Female,Twice daily,3.9,No,0.98,Yes,1,0,1,1-2 years,No,5883,Medium
+442,14,Male,Twice daily,7.6,No,0.98,No,2,0,2,< 6 months,No,9068,Medium
+443,33,Female,Twice daily,3.4,Yes,2.45,Yes,1,1,4,1-2 years,Yes,9751,High
+444,57,Female,Irregular,4.5,No,3.09,Yes,1,1,3,< 6 months,No,13436,High
+445,21,Male,Irregular,4.7,No,2.64,Yes,1,0,3,6-12 months,No,8215,High
+446,74,Male,Twice daily,2.2,No,0.73,Yes,0,3,4,1-2 years,No,14102,Low
+447,17,Male,Irregular,1.0,No,2.2,Yes,1,0,2,6-12 months,No,5938,Medium
+448,30,Female,Once daily,2.4,No,1.99,No,1,0,1,> 2 years,No,4763,Medium
+449,57,Male,Once daily,5.0,No,2.76,Yes,2,0,3,> 2 years,Yes,7432,High
+450,58,Female,Once daily,4.7,Yes,2.16,No,1,0,1,> 2 years,No,5825,High
+451,28,Male,Once daily,5.9,No,2.45,Yes,3,0,4,< 6 months,No,10860,High
+452,21,Female,Twice daily,,No,1.91,No,1,0,2,< 6 months,No,5693,Medium
+453,62,Male,Irregular,4.3,No,4.17,Yes,2,1,4,1-2 years,Yes,13070,High
+454,44,Male,Once daily,3.3,No,1.35,No,1,0,1,Never,No,6053,Medium
+455,58,Female,Once daily,6.3,Yes,1.81,No,3,3,7,> 2 years,No,23152,High
+456,47,Female,,2.7,No,1.67,No,1,0,2,> 2 years,No,4322,Medium
+457,63,Male,Irregular,2.3,No,3.16,Yes,2,2,4,6-12 months,No,18344,High
+458,44,Female,Once daily,5.6,No,1.52,Yes,3,0,4,6-12 months,No,11364,High
+459,19,Female,Twice daily,1.8,Yes,2.04,Yes,1,2,4,1-2 years,No,16407,Medium
+460,10,Female,Once daily,9.3,No,2.66,No,4,0,4,< 6 months,No,12123,High
+461,40,Female,Once daily,4.7,No,1.69,No,2,0,2,< 6 months,No,7500,Medium
+462,23,Male,Irregular,5.2,No,3.25,Yes,8,0,8,Never,Yes,24206,High
+463,14,Male,Irregular,2.9,No,2.13,Yes,0,0,2,6-12 months,No,4245,Medium
+464,63,Male,Once daily,3.9,No,1.33,No,1,0,2,6-12 months,No,5571,Low
+465,22,Female,Irregular,3.6,No,2.96,Yes,3,0,4,< 6 months,No,11490,High
+466,12,Female,Twice daily,3.4,Yes,0.91,No,0,0,2,Never,No,1700,Medium
+467,51,Male,Irregular,5.8,No,1.56,No,2,3,8,1-2 years,Yes,20751,Medium
+468,18,Male,Twice daily,3.6,Yes,2.46,No,0,1,2,1-2 years,Yes,8851,Medium
+469,45,Female,Twice daily,6.5,No,3.05,Yes,2,0,2,> 2 years,No,10427,High
+470,47,Female,Twice daily,9.8,No,2.26,No,6,0,7,6-12 months,No,17916,High
+471,14,Female,Twice daily,3.9,Yes,1.64,No,1,0,2,1-2 years,No,4868,Medium
+472,55,Male,Once daily,4.8,No,,Yes,1,2,4,< 6 months,No,15881,High
+473,32,Male,Once daily,5.3,Yes,1.42,No,0,0,0,< 6 months,No,2767,Medium
+474,71,Male,Once daily,8.1,No,1.49,No,0,0,0,> 2 years,Yes,564,Medium
+475,10,Female,Twice daily,4.3,No,2.64,No,0,0,1,> 2 years,Yes,4035,Medium
+476,34,Male,Once daily,2.8,Yes,2.03,No,1,0,1,6-12 months,No,4388,Medium
+477,42,Female,Twice daily,2.0,No,2.71,Yes,3,0,4,6-12 months,No,10397,High
+478,43,Male,Irregular,4.4,No,1.45,Yes,6,1,7,1-2 years,No,20713,High
+479,13,Female,Once daily,3.6,No,1.11,No,1,0,1,< 6 months,No,4518,Low
+480,70,Female,Twice daily,8.5,Yes,2.49,Yes,1,0,1,6-12 months,No,5723,High
+481,22,Female,Once daily,8.0,No,2.73,No,3,0,4,< 6 months,No,8119,High
+482,50,Male,Irregular,2.4,No,3.38,Yes,4,1,5,6-12 months,No,18636,High
+483,9,Male,Once daily,3.1,No,2.17,No,2,0,2,> 2 years,No,7430,Medium
+484,41,Male,Twice daily,4.6,Yes,2.28,No,1,0,1,6-12 months,Yes,5416,Medium
+485,36,Female,Irregular,7.3,Yes,2.91,Yes,4,0,5,< 6 months,Yes,13982,High
+486,24,Female,Irregular,4.6,No,4.08,Yes,0,0,0,1-2 years,No,7751,High
+487,66,Female,Twice daily,3.2,No,1.28,Yes,0,1,1,> 2 years,No,8217,Medium
+488,59,Female,Twice daily,4.4,No,2.4,Yes,3,0,3,6-12 months,No,11280,High
+489,44,Female,Twice daily,3.2,No,1.36,Yes,3,1,4,< 6 months,No,15076,High
+490,24,Male,Irregular,5.7,No,3.43,Yes,1,0,4,6-12 months,No,9299,High
+491,44,Female,Twice daily,3.1,No,1.32,No,1,0,2,> 2 years,Yes,6072,Medium
+492,72,Male,Once daily,3.5,No,2.6,No,1,2,6,1-2 years,No,12145,Medium
+493,50,Male,Irregular,6.8,No,3.22,Yes,3,0,3,> 2 years,No,11285,High
+494,18,Female,Twice daily,3.0,No,3.26,Yes,5,0,8,Never,No,16544,High
+495,63,Male,Twice daily,1.6,No,1.73,No,0,0,0,> 2 years,No,2183,Low
+496,25,Male,Once daily,4.7,No,,Yes,2,0,2,1-2 years,No,8714,High
+497,66,Female,,3.8,No,1.56,Yes,1,0,2,1-2 years,No,6333,Medium
+498,44,Male,Once daily,5.5,No,2.04,Yes,1,1,2,< 6 months,No,11511,Medium
+499,6,Female,Twice daily,,No,2.28,No,0,0,1,Never,No,4179,Medium
+500,8,Male,Once daily,4.4,No,1.08,Yes,1,0,2,6-12 months,No,5564,Medium
+309,56,Female,Irregular,4.9,No,3.13,Yes,1,2,3,1-2 years,No,12716,High
+14,65,Male,Twice daily,4.0,No,3.08,Yes,0,1,1,Never,No,8078,High
+415,34,Female,,6.6,No,3.52,Yes,2,0,6,< 6 months,No,11254,High
+33,12,Male,Once daily,3.6,No,2.81,Yes,1,0,1,6-12 months,No,7037,Medium
+461,40,Female,Once daily,4.7,No,1.69,No,2,0,2,< 6 months,No,7500,Medium
